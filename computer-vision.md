@@ -1,7 +1,22 @@
 # Computer Vision
 以有代表性的论文为主，按照通用方法和细分领域进行分类。
 
+# Face Recognition
+|Name|Comment|Published Year|
+|-|-|-|
+|A 3D GAN for Improved Large-pose Facial Recognition |利用GAN算法，进行数据增强，对large-pose 人脸识别有很好的性能提升 | CVPR 2021 |
+|When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework|提出了一种多任务学习框架MTLFace，提高了对年龄的抗干扰能力和跨年龄人脸图像生成 | CVPR 2021 |
+|MagFace: A Universal Representation for Face Recognition and Quality Assessment|提供人脸识别、质量评估的方法| CVPR 2021 |
+|Spherical Confidence Learning for Face Recognition|用于评估人脸识别的置信度|CVPR 2021|
+|Cross-Domain Similarity Learning for Face Recognition in Unseen Domains|跨域的度量学习，可用于识别没有见过的人脸样本|CVPR 2021|
+|Dynamic Class Queue for Large Scale Face Recognition In the Wild | 提出DCQ方法来解决计算成本和长尾分类问题，这两个问题是大规模人脸识别的难点 | CVPR 2021 |
+|Mitigating Face Recognition Bias via Group Adaptive Classifier| 一种提升人脸识别准确度的方法 | CVPR 2021 |
+|Pseudo Facial Generation with Extreme Poses for Face Recognition | 通过GAN，提升极端人脸姿势（如侧脸、化妆等）场景下的人脸识别精度 | CVPR 2021 |
+
+
 # Network Structure
+|Name|Comment|Published Year|
+|-|-|-|
 |Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning, by Christian S., Sergey I., Vincent V. & Alexander A A.|Inception-v4网络结构的实现|2017|
 
 
